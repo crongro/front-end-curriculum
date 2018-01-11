@@ -1,10 +1,11 @@
 
+# 2018 front-end curriculum
 
-#2018 front-end curriculum
+------
+<br><br>
 
-
-
-| # STEP1 - JavaScript Programming training (with nodeJS) |
+## STEP 1. JavaScript Programming (with nodeJS) 
+| contents |
 | ---------------------------------------- |
 | IDE (with nodeJS)                        |
 | Version control(Git)                     |
@@ -22,9 +23,10 @@
 | programming design basic                 |
 | Understanding Web Works                  |
 
+<br>
 
-
-| # STEP2 - Browser Web development Basic  |
+## STEP 2. Browser Web development Basic 
+| contents |
 | ---------------------------------------- |
 | Understanding HTTP                       |
 | How Browser works                        |
@@ -56,40 +58,10 @@
 | Uxable programming thinking.             |
 
 
+<br>
 
-| # STEP2 - Browser Web development Basic  |
-| ---------------------------------------- |
-| Understanding HTTP                       |
-| How Browser works                        |
-| frontend-backend R&R                     |
-| HTML<br />- structured design <br />- semantic tags<br />- Class and ID properties |
-| Scope and Closure                        |
-| CSS- properties- selector- layout(float, position, boxmodel) |
-| Debugging (with Chrome developer tools)<br />- elements, sources, console, networks panels |
-| DOM Manipulation<br /> - traversal, append, delete, move |
-| Event handling. <br />- EventListener- Event object |
-| Event handling.<br />- delegation and bubbling/capturing |
-| Event handling <br />- keyboard control  |
-| HTML Templating <br />- string replace.<br />- understanding templating  strategy |
-| HTML Templating <br />- usage library<br />- ES2015 template literal |
-| Style property handling                  |
-| Ajax & JSON <br />- Using XMLHttpRequest<br />- CORS |
-| Ajax-cache & localStorage                |
-| Object-oriented JavaScript <br />- Prototype based design. |
-| Module pattern                           |
-| Understanding ES2015<br />- let, const, arrow Function<br />- spread operator, rest parameter, destructuring<br />- Classes, Proxy |
-| Web animations <br />- animation basic.<br />- CSS3 animation (Transition and transform) <br />- JavaScript & CSS3 animation control.<br />- JavaScript animation |
-| UI Component - Slide                     |
-| UI Component - Tab UI                    |
-| UI Component  - Layer                    |
-| UI Component - search bar auto-complete  |
-| Form control                             |
-| Back-End application (nodeJS)<br />- nodeJS web application and  Express<br />- URL Routing and HTTP Response<br />- View Engine<br />- APIs |
-| Uxable programming thinking.             |
-
-
-
-| # STEP3 - Browser Web development Advanced |
+## STEP3. Browser Web development Advanced
+| contents |
 | ---------------------------------------- |
 | CSS Layout <br />- Flex, <br />- CSS Grid layout |
 | CSS Preprocess <br />- SASS              |
