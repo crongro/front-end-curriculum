@@ -5,7 +5,7 @@
 <br><br>
 
 ## STEP 1. JavaScript Programming (with nodeJS) 
-| contents |
+| contents                                 |
 | ---------------------------------------- |
 | IDE (with nodeJS)                        |
 | Version control(Git)                     |
@@ -26,7 +26,7 @@
 <br>
 
 ## STEP 2. Browser Web development Basic 
-| contents |
+| contents                                 |
 | ---------------------------------------- |
 | Understanding HTTP                       |
 | How Browser works                        |
@@ -61,7 +61,7 @@
 <br>
 
 ## STEP3. Browser Web development Advanced
-| contents |
+| contents                                 |
 | ---------------------------------------- |
 | CSS Layout <br />- Flex, <br />- CSS Grid layout |
 | CSS Preprocess <br />- SASS              |
@@ -69,17 +69,17 @@
 | Mobile Touch Events.                     |
 | Mobile UI Component<br />- Flicking UI (infinite-slide) |
 | Usage JavaScript library <br />- jQuery, handlebar |
-| Functional programming -<br /> reduce, partial and currying<br />- lodash.js |
+| Functional programming <br />- reduce, partial, currying<br />- compose, pipline<br />- lodash.js |
 | File-Uploader                            |
-| design pattern- proxy- Observer- MVC- Inheritance |
-| Asynchornous technique - Promise- generator- Async/await |
-| UI Unit test  - Mocha, Jest.. - Usage Mock. |
+| design pattern<br />- proxy<br />- Observer<br />- MVC<br />- Inheritance |
+| Asynchornous technique <br />- Promise- generator<br />- Async/await |
+| UI Unit test  <br />- Mocha, Jest.. <br />- Usage Mock. |
 | Understand SPAs                          |
 | SPAs- NPM and Webpack build- Transpiling |
 | Debugging advanced                       |
-| SPAs <br />- ES6 Modular Programming- Architecuture Design (like Flux Architecture) |
-| SPAs<br />- Resuable component- Routing & History API |
-| Improved Usability- lazy loading<br />- Ajax and indicator |
+| SPAs <br />- ES6 Modular Programming<br />- Architecuture Design (like Flux Architecture) |
+| SPAs<br />- Resuable component<br />- Routing & History API |
+| Improved Usability<br />- lazy loading<br />- Ajax and indicator |
 | Typescript.                              |
 | JavaScript Frameworks overview           |
 | Web animation control <br />- pause/resume <br />- throttling <br />- minimizing browser reflow |
