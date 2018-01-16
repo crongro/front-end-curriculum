@@ -14,7 +14,7 @@
 | Function   <br />- declaration and expression <br />- arguments property & return - call stack |
 | Array <br />- Array <br />- methods<br /><br />Object  <br />- Object  <br />- methods |
 | Object literal pattern & this keyword    |
-| Function methods <br /> - bind, apply, call |
+| [apply,bind,call](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb) |
 | String manipulation                      |
 | Regular Expressions                      |
 | Asynchronous basic. <br /> - setTimeout<br /> - nodeJS user Input |
