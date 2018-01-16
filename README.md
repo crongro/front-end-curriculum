@@ -21,6 +21,7 @@
 | JavaScript clean code                    |
 | JavaScript debugging<br /> - nodeJS debugging <br /> - Chrome dev tools(source, console panel) |
 | programming design basic                 |
+| [ES2015 new features](https://babeljs.io/learn-es2015/#ecmascript-2015-features)|
 
 <br>
 
@@ -67,7 +68,6 @@
 | Responsive Web Design                    |
 | Mobile Touch Events.                     |
 | Mobile UI Component<br />- Flicking UI (infinite-slide) |
-| Using JavaScript library <br />- jQuery, handlebar |
 | Functional programming <br />- reduce, partial, currying<br />- compose, pipline<br />- lodash.js |
 | File-Uploader                            |
 | design pattern<br />- proxy<br />- Observer<br />- MVC<br />- Inheritance |
