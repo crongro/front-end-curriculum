@@ -46,7 +46,6 @@
 | Ajax-cache & localStorage                |
 | Object-oriented JavaScript <br />- Prototype based design. |
 | Module pattern                           |
-| Understanding ES2015<br />- let, const, arrow Function<br />- spread operator, rest parameter, destructuring<br />- Classes, Proxy |
 | Web animations <br />- animation basic.<br />- CSS3 animation (Transition and transform) <br />- JavaScript & CSS3 animation control.<br />- JavaScript animation |
 | UI Component - Slide                     |
 | UI Component - Tab UI                    |
