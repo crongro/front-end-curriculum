@@ -4,27 +4,28 @@
 ------
 <br><br>
 
-## STEP 1. JavaScript Programming (with nodeJS) 
+## STEP 1. JavaScript Programming (with nodeJS)
 | contents                                 |
 | ---------------------------------------- |
-| IDE (with nodeJS)                        |
-| Version control(Git)                     |
-| Variables, Scope, Type, String           |
+| [IDE (with nodeJS)](https://atom.io/) <br/> - [linter-eslint](https://atom.io/packages/linter-eslint): `apm install linter linter-eslint`|
+| [Version control (Git)](http://rogerdudler.github.io/git-guide/) ([practice](https://learngitbranching.js.org/))                     |
+| Variables, Scope ([const vs let, arrow functions](http://www.deadcoderising.com/2017-04-11-es6-var-let-and-const-the-battle-between-function-scope-and-block-scope/)), Type ([in depth doc](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)), [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) see [Template Literal](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)           |
 | operator, switch, iterator, condition    |
 | Function   <br />- declaration and expression <br />- arguments property & return - call stack |
 | Array <br />- Array <br />- methods<br /><br />Object  <br />- Object  <br />- methods |
 | Object literal pattern & this keyword    |
-| Function methods <br /> - bind, apply, call |
+| [apply,bind,call](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb) |
 | String manipulation                      |
-| Regular Expressions                      |
+| Regular Expressions - [practice](https://regexr.com/) |
 | Asynchronous basic. <br /> - setTimeout<br /> - nodeJS user Input |
 | JavaScript clean code                    |
-| JavaScript debugging<br /> - nodeJS debugging <br /> - Chrome dev tools(source, console panel) |
+| JavaScript debugging<br /> - [Advanced JS Debugging](https://keyholesoftware.com/2014/01/06/advanced-debugging-techniques-in-javascript-part-1/)<br />- nodeJS debugging <br />- Chrome dev tools(source, console panel) ([basics](https://developers.google.com/web/tools/chrome-devtools/javascript/), and [kitchen sink](http://devtoolstips.com/)) |
 | programming design basic                 |
+| [ES2015 new features](https://babeljs.io/learn-es2015/#ecmascript-2015-features)|
 
 <br>
 
-## STEP 2. Browser Web development Basic 
+## STEP 2. Browser Web development Basic
 | contents                                 |
 | ---------------------------------------- |
 | Understanding HTTP<br />- Web architecture<br />- URI<br />- HTTP (header, method, status, cookie, session) |
@@ -45,7 +46,6 @@
 | Ajax-cache & localStorage                |
 | Object-oriented JavaScript <br />- Prototype based design. |
 | Module pattern                           |
-| Understanding ES2015<br />- let, const, arrow Function<br />- spread operator, rest parameter, destructuring<br />- Classes, Proxy |
 | Web animations <br />- animation basic.<br />- CSS3 animation (Transition and transform) <br />- JavaScript & CSS3 animation control.<br />- JavaScript animation |
 | UI Component - Slide                     |
 | UI Component - Tab UI                    |
@@ -67,7 +67,6 @@
 | Responsive Web Design                    |
 | Mobile Touch Events.                     |
 | Mobile UI Component<br />- Flicking UI (infinite-slide) |
-| Using JavaScript library <br />- jQuery, handlebar |
 | Functional programming <br />- reduce, partial, currying<br />- compose, pipline<br />- lodash.js |
 | File-Uploader                            |
 | design pattern<br />- proxy<br />- Observer<br />- MVC<br />- Inheritance |
@@ -87,6 +86,3 @@
 | React Practices <br />- CRA based mini projects (step by step)<br />- Write React Component<br />  - Higher order components<br />  - Presentational/Container components<br />- immutable & shoouldComponentUpdate |
 | React + Data flow(Redux) <br />- Flux Architecture <br />- Examples |
 | React + Async <br />- generator and Redux-saga |
-
-
-
