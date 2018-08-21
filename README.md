@@ -11,10 +11,10 @@
 | Git & GitHub <br />- commit/push/pull/branch/pull request    |
 | Type, String, Scope(let,const,var), operator, switch, iterator, condition |
 | Function   <br />- declaration and expression <br />- arguments property & return - call stack<br />- arrow function |
-| Function based programming design<br />- divide by sub-routine<br />- rest parameter <br />- destructuring |
-| Collection <br />- Array (Handling Array, high-order functions, spread operator<br />- Object (Object literal, Handling Object) |
+| Function based programming design<br />- divide by subroutine<br />- rest parameter <br />- destructuring |
+| Collection <br />- Array (Handling Array, high-order functions, spread operator)<br />- Object (Object literal, Handling Object) |
 | - String manipulation,<br />- Regular Expressions            |
-| Asynchronous basic <br /> -setTimeout<br />- callstack & callback queue |
+| Asynchronous basic <br />- setTimeout<br />- callstack & callback queue |
 | Clean Code<br />- undestanding maintanance<br />- maintable code<br />- readable code<br />- coding convention<br />- small function design |
 | JavaScript debugging<br />- error message<br />- call stack <br />- Chrome dev tools(source, console panel) |
 | OOP programming<br />- understanding Object-oriented programming <br />- classes and instance(object) <br />- object literal pattern<br />- this, bind, apply, call |
@@ -37,12 +37,12 @@
 | Ajax & JSON <br />- Using XMLHttpRequest<br />- JSON Format <br />- Promise pattern<br />- Cross-domian (CORS / JSONP) |
 | OOP JavaScript <br />- prototype property<br />- Inheritance (Object.create and Class extend)<br />- private / public pattern |
 | ECMAScript new features<br />- Symbol, Collection (Set, Map), Proxy<br />- iteration protocol(for-of, generator) |
-| Functional Programming<br />- scope and closure<br />- partial, currying<br />- Immutability<br />- pipeline & combinator<br />- asynchonous pipeline |
+| Functional Programming<br />- scope and closure<br />- partial, currying<br />- Immutability<br />- pipeline & combinator |
 | UI Unit test  <br />- DOM, Asynchronous test<br />- Using Test library (Jest) |
 | Web animations <br />- understanding Web animations<br />- Transition and transform <br />- JavaScript Animation & requestAnimationFrame |
 | UI Components <br />- Slide UI (infinite sliding)<br />- Tab UI<br />- Search-Bar auto-completion<br />- Reusable Component Design |
 | Web Service Application Architecture<br />- Modular programming (ES Modules) <br />- Project structure for Web services |
-| Undestanding Back-End application (nodeJS)<br />- Express<br />- URL Routing and HTTP Response<br />- template engine & Server-side rendering<br />- Building a RESTful API<br />- Autnehtication and authrization |
+| Undestanding Back-End application (nodeJS)<br />- Express<br />- URL Routing and HTTP Response<br />- template engine & Server-side rendering<br />- Building a RESTful API |
 | UX programming - thinking.<br />- UX improving programming.  |
 
 
@@ -56,11 +56,11 @@
 | Performance & UXable technique <br />- Animation pause/resume <br />- throttling & debounce <br />- minimizing browser reflow<br />- Lazy loading<br />- Performance diagnosis  (with Chrome Dev tools) |
 | File-Uploader & Mulipart formdata                            |
 | Asynchornous technique <br />- Promise advanced<br />- generator<br />- Async/await<br />- Erros handling |
-| Build<br />- NPM<br />- Webpack build<br />- Transpiling(babel) |
-| Web Service Design patterns<br />- ES6 Modular Programming<br />- Decoupling Store & View (MVC) <br />- Observer pattern (pub/sub pattern)<br />- Reactive Programming (using Proxy object)<br />- Uderstanding Observable (Rxjs)<br />- state management using Mobx. |
+| Front-End Build<br />- NPM<br />- Webpack build<br />- Transpiling(babel) |
+| Web Service Architecture patterns<br />- ES6 Modular Programming<br />- Decoupling Store & View<br />- Observer pattern (pub/sub pattern)<br />- Reactive Programming (using Proxy object)<br />- Uderstanding Observable (Rxjs) |
 | SPAs<br />- Understanding SPAs<br />- history API & URL Routing<br />- Ajax and indicator<br />- Ajax Cache & localStroage |
-| Type System (TypeScript)                                     |
-| Code quality<br /> - linting<br />- UI E2E Test (cypress)    |
+| JavaScript Type System (TypeScript)                          |
+| Code quality - linting                                       |
 | React framework <br />- background & philosophy <br />- Renderng flow. <br />- React features    <br />- virtual DOM   <br />- components life cycles  <br /> - states & props   <br />-  JSX Syntax |
 | React Practices <br />- CRA based mini projects (step by step)<br />- Write React Component<br />  - Higher order components<br />  - Presentational/Container components<br />- immutable & shoouldComponentUpdate |
 | React + Data flow(Redux/Mobx) <br />- Flux Architecture <br />- Examples<br />- Async control |
