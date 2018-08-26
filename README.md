@@ -14,6 +14,7 @@
 | Function based programming design<br />- divide by subroutine<br />- rest parameter <br />- destructuring |
 | Collection <br />- Array (Handling Array, high-order functions, spread operator)<br />- Object (Object literal, Handling Object) |
 | - String manipulation,<br />- Regular Expressions            |
+| ES 2015 Syntax(destructuring,const,let, arrow, spread operator, for-of) |
 | Asynchronous basic <br />- setTimeout<br />- callstack & callback queue |
 | Clean Code<br />- undestanding maintanance<br />- maintable code<br />- readable code<br />- coding convention<br />- small function design |
 | JavaScript debugging<br />- error message<br />- call stack <br />- Chrome dev tools(source, console panel) |
