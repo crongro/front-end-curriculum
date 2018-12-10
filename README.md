@@ -8,7 +8,6 @@
 | contents                                                     |
 | ------------------------------------------------------------ |
 | Development tool (VSCode)<br />- vscode<br />- unix basic command |
-| Git & GitHub <br />- commit/push/pull/branch/pull request    |
 | Type, String, Scope(let,const,var), operator, switch, iterator, condition |
 | Function   <br />- declaration and expression <br />- arguments property & return - call stack<br />- arrow function |
 | Function based programming design<br />- divide by subroutine<br />- rest parameter <br />- destructuring |
