@@ -32,12 +32,12 @@
 | HTML<br />- HTML structured design <br />- semantic tags<br />- Class and ID properties<br />- HTML debugging(Chrome Dev tools) |
 | CSS <br />- style properties<br />- cascading <br />- Inheritance<br />- selector<br />- layout (float, position, boxmodel)<br />- CSS debugging(Chrome Dev tools) |
 | DOM Manipulation<br />- HTML & DOM<br />- DOM properties & method<br />- DOM manipulation(append, delete, move..) |
-| Event handling. <br />- EventListener, Event object<br />- bubbling/capturing, delegation<br />- preventDefault, stopPropagation<br />- keyboard event<br />- form control<br />- handing css properties(classList..) |
+| Event handling. <br />- EventListener, Event object<br />- bubbling/capturing, delegation<br />- preventDefault, stopPropagation<br />- keyboard event<br />- form control<br />- handling css properties(classList..) |
 | HTML Templating <br />- templating  strategies <br />- template literal |
 | Asynchronous communication <br />- Fetch API <br />- XMLHttpRequest<br />- JSON handling <br />- Promise pattern<br />- Cross-domian (SOA, CORS,  JSONP) |
 | Functional Programming<br />- scope and closure<br />- partial, currying<br />- Immutability<br />- pipeline & combinator<br />- iteration protocol (for-of, generator)<br />- Monad(Either..) |
 | UI Unit test  <br />- DOM, Asynchronous test<br />- Using Test library (Jest, Mocha) |
-| Web Animations <br />- understanding web animations<br />- Browser Rendering pipleline <br />- CSS property( keyframe, transition, transform) <br />- requestAnimationFrame & requestIdleCallback |
+| Web Animations <br />- understanding web animations<br />- Browser Rendering pipeline <br />- CSS property( keyframe, transition, transform) <br />- requestAnimationFrame & requestIdleCallback |
 | UI Components <br />- Slide UI (infinite sliding)<br />- Tab UI<br />- Search-bar auto-completion<br />- Reusable Component Design |
 | Web Service Application Architecture<br />- Modular programming (ES Modules) <br />- Project structure for Web services |
 | Back-End application Basic(nodeJS)<br />- Express<br />- URL Routing and HTTP Response<br />- template engine & Server-side rendering<br />- Building a RESTful API |
@@ -51,17 +51,17 @@
 | ------------------------------------------------------------ |
 | CSS Advanced <br />- Layout (Flex, CSS Grid layout)<br />- preprocessor (Sass)<br />- Responsive Web Design<br />- CSS Typed Object Model |
 | Mobile Web <br />- Touch Events<br />- Flicking UI Components<br />- Mobile Web debugging |
-| Performance & UXable technique <br />- dynamic & mixed animation handing <br />- throttling & debounce <br />- minimizing browser reflow<br />- Lazy loading<br />- Performance diagnosis  (with Chrome Dev tools) |
+| Performance & UXable technique <br />- dynamic & mixed animation handling <br />- throttling & debounce <br />- minimizing browser reflow<br />- Lazy loading<br />- Performance diagnosis  (with Chrome Dev tools) |
 | HTTP<br />- File-Uploader & Mulipart formdata<br />- session<br />- token based authentication |
 | Asynchornous technique <br />- promise APIs<br />- generator<br />- Async/await<br />- Erros handling |
 | Front-End Build<br />- NPM<br />- build(webpack, parcel)<br />- Transpiling (babel) |
 | Web Service Architecture patterns<br />- ES6 Modular Programming<br />- decoupling data & view<br />- Observer pattern (pub/sub pattern)<br />- Reactive Programming (using Proxy object) |
-| SPAs<br />- Understanding SPAs<br />- history API & URL Routing<br />- Ajax and indicator<br />- Ajax Cache & localStroage & KVStorage |
+| SPAs<br />- Understanding SPAs<br />- history API & URL Routing<br />- fetch and indicator<br />- data cache & localStroage & KVStorage |
 | JavaScript Type System (TypeScript)                          |
-| Framework & React concepts<br />- background & philosophy <br />  -  Renderng flow <br />  - React features    <br />  - virtual DOM concepts <br />  - states & props   <br />-  Hooks API<br />-  JSX Syntax |
+| Framework & React concepts<br />- background & philosophy <br />  - Renderng flow <br />  - React features    <br />  - virtual DOM concepts <br />  - states & props   <br />-  Hooks API<br />-  JSX Syntax |
 | React Practices <br />- CRA based projects (step by step)<br />React state management <br />- Flux Architecture <br />- useReduce<br />- Context API <br />- Redux<br />- Async control |
-| React Projects<br />- Hooks based design<br />- Advanced Technique (useMemo, Suspense, Lazy, Concurrent mode)<br />- css libraies (styled components, material UI...)<br />- Jest |
-| - Progressive Web Apps <br />  - Service worker <br />  - Fetch API<br />  - Cache API and Cache strategy<br />  - offline<br />  - push notification and push API |
+| React Projects<br />- Hooks based design<br />- Advanced Technique (useMemo, Suspense, Lazy, Concurrent mode)<br />- css libraries (styled components, material UI...)<br />- Jest |
+| Progressive Web Apps <br />  - Service worker <br />  - Fetch API<br />  - Cache API and Cache strategy<br />  - offline<br />  - push notification and push API |
 
 
 
