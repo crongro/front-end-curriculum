@@ -1,5 +1,5 @@
 
-# 2019 front-end curriculum
+# 2020 front-end curriculum
 
 ------
 <br><br>
@@ -8,19 +8,18 @@
 | contents                                                     |
 | ------------------------------------------------------------ |
 | Fundamentals <br />- Development tool (VSCode)<br />- unix basic command<br />- git / github |
-| Node.JS<br />- npm project <br />- package.json, npm install<br />- Modules<br />- VSCode debugging |
-| JavaScript Syntax<br />- type, string, scope(let,const,var), operator, switch, iterator, condition |
-| Function   <br />- declaration and expression <br />- arguments, parameter<br />- call stack<br />- arrow function |
-| Function based programming design<br />- divide by subroutine<br />- rest parameter, default parameter<br />- destructuring<br />- recursion |
-| Collection <br />- Array (Handling Array, high-order functions, spread operator)<br />- Object (Object literal, Handling Object property)<br />- Set & Map |
+| Node.JS<br />- npm project <br />- package.json & module dependencies<br />- Modules & CommonJS<br />- VSCode node debugging |
+| JavaScript Syntax<br />- type, string, scope(let,const,var), operator, switch, iterator, condition..<br />- ES 2015+ features  (destructuring, const, let, arrow, spread operator, for-of) |
+| Function   <br />- declaration and expression <br />- arguments, parameter<br />- calling stack<br />- arrow function |
+| Function based programming design<br />- subroutine<br />- rest parameter, default parameter<br />- destructuring<br />- recursion<br />- pure function |
+| Collection <br />- handling JavaScript data structures <br />- Array (APIs, higher-order functions)<br />- Object (Object literal, Handling Object property)<br />- Set & Map |
 | String<br />- String manipulation, methods<br />- Regular Expressions |
-| ES 2015+  (destructuring, const, let, arrow, spread operator, for-of...) |
-| Asynchronous basic <br />- setTimeout<br />- JS Stack & callback queue & Event loop |
+| Asynchronous basic <br />- setTimeout<br />- JS stack & callback queue & event loop |
 | Clean code<br />- software maintenance<br />- maintainable code, readable code<br />- coding convention |
-| JavaScript debugging<br />- JavaScript Errors <br />- Error handling<br />- VSCode or Chrome dev tools(source, console) debugging |
+| debugging<br />- JavaScript Errors <br />- Error handling<br />- VSCode or Chrome dev tools(source, console) debugging |
 | OOP programming<br />- Object-Oriented Programming <br />- SOLID<br />- ES Classes and instance(object) <br />- prototype & Inheritance & Class Extends<br />- object literal pattern<br />- this, bind, apply, call |
 | Unit test basic<br /> - unit test basic<br /> - make simple test library |
-| Algorithm training<br />- complexity<br />- stack, queue<br />- recursion<br />- tokenizer |
+| Algorithm training<br />- complexity, <br />- stack, queue<br />- recursion |
 
 <br>
 
@@ -30,7 +29,7 @@
 | Understanding HTTP<br />- Web Architecture<br />- Resource & URL |
 | Browser & Server<br />- How browser works<br />- How server works (Node.JS simple server)<br />- request & response<br />- HTTP (header, method, status, cookie, session) |
 | HTML<br />- HTML structured design <br />- semantic tags<br />- Class and ID properties<br />- HTML debugging(Chrome Dev tools) |
-| CSS <br />- style properties<br />- cascading <br />- Inheritance<br />- selector<br />- layout (float, position, boxmodel)<br />- CSS debugging(Chrome Dev tools) |
+| CSS <br />- style properties<br />- cascading <br />- Inheritance<br />- selector<br />- layout (float, position, boxmodel, flex)<br />- CSS debugging(Chrome Dev tools) |
 | DOM Manipulation<br />- HTML & DOM<br />- DOM properties & method<br />- DOM manipulation(append, delete, move..) |
 | Event handling. <br />- EventListener, Event object<br />- bubbling/capturing, delegation<br />- preventDefault, stopPropagation<br />- keyboard event<br />- form control<br />- handling css properties(classList..) |
 | HTML Templating <br />- templating  strategies <br />- template literal |
@@ -49,21 +48,20 @@
 ## STEP3. Browser Web development Advanced
 | contents                                                     |
 | ------------------------------------------------------------ |
-| CSS Advanced <br />- Layout (Flex, CSS Grid layout)<br />- preprocessor (Sass)<br />- Responsive Web Design<br />- CSS Typed Object Model |
-| Mobile Web <br />- Touch Events<br />- Flicking UI Components<br />- Mobile Web debugging |
+| CSS Advanced <br />- Layout (CSS Grid layout)<br />- preprocessor (Sass)<br />- Responsive Web Design<br />- CSS Typed Object Model |
+| Mobile Web <br />- touch events<br />- swipe gesture interaction<br />- mobile web debugging |
 | Performance & UXable technique <br />- dynamic & mixed animation handling <br />- throttling & debounce <br />- minimizing browser reflow<br />- Lazy loading<br />- Performance diagnosis  (with Chrome Dev tools) |
-| HTTP<br />- File-Uploader & Mulipart formdata<br />- session<br />- token based authentication |
+| HTTP<br />- File-Uploader & Mulipart formdata<br />- session<br />- token based authentication & jwt |
 | Asynchornous technique <br />- promise APIs<br />- generator<br />- Async/await<br />- Erros handling |
-| Front-End Build<br />- NPM<br />- build(webpack, parcel)<br />- Transpiling (babel) |
-| Web Service Architecture patterns<br />- ES6 Modular Programming<br />- decoupling data & view<br />- Observer pattern (pub/sub pattern)<br />- Reactive Programming (using Proxy object) |
-| SPAs<br />- Understanding SPAs<br />- history API & URL Routing<br />- fetch and indicator<br />- data cache & localStroage & KVStorage |
-| JavaScript Type System (TypeScript)                          |
-| Framework & React concepts<br />- background & philosophy <br />  - Renderng flow <br />  - React features    <br />  - virtual DOM concepts <br />  - states & props   <br />-  Hooks API<br />-  JSX Syntax |
-| React Practices <br />- CRA based projects (step by step)<br />React state management <br />- Flux Architecture <br />- useReduce<br />- Context API <br />- Redux<br />- Async control |
-| React Projects<br />- Hooks based design<br />- Advanced Technique (useMemo, Suspense, Lazy, Concurrent mode)<br />- css libraries (styled components, material UI...)<br />- Jest |
+| Functional Programming<br />- compose & combinator<br />- currying & partial application<br />- iterator & generator<br />- lazy evaluation<br />- monad & error handling<br />- functional asynchronous handling |
+| TypeScript<br />- Types<br />- union, interface, generics, Enums, Classes, Functions |
+| Front-End Build<br />- NPM script<br />- build(webpack, parcel)<br />- Transpiling (babel)<br />- setup development & production |
+| SPAs<br />- Understanding SPAs<br />- history API & URL Routing<br />- fetch and indicator<br />- data cache & localStroage & KVStorage<br />- module depencies management (Observer pattern) |
+| React Basic<br />- background & philosophy <br />  - Renderng flow <br />  - React features    <br />  - virtual DOM concepts <br />  - states & props   <br />- Styling (styled components, material UI...)<br />-  Hooks API<br />-  JSX Syntax<br />- CRA based projects (step by step)<br />- Hooks based component design |
+| React Advanced <br />- state management (Flux Architecture) <br />- useReduce, useContext<br />- Optimization technique (React.memo, useCallbackm, useMemo, Suspense, Lazy) <br />- Concurrent mode<br />- React Test (Jest & React testing library)<br />- SSR |
 | Progressive Web Apps <br />  - Service worker <br />  - Fetch API<br />  - Cache API and Cache strategy<br />  - offline<br />  - push notification and push API |
 
 
 
-*{**I LOVE CODESQUAD**}*
+*{**I LOVE CODESQUAD **}* 😎
 
