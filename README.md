@@ -63,5 +63,5 @@
 
 
 
-*{**I LOVE CODESQUAD **}* 😎
+{I LOVE CODESQUAD } 😎
 
