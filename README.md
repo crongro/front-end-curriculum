@@ -31,7 +31,7 @@
 | HTML<br />- HTML structured design <br />- semantic tags<br />- Class and ID properties<br />- HTML debugging(Chrome Dev tools) |
 | CSS <br />- style properties<br />- cascading <br />- Inheritance<br />- selector<br />- layout (float, position, boxmodel, flex)<br />- CSS debugging(Chrome Dev tools) |
 | DOM Manipulation<br />- HTML & DOM<br />- DOM properties & method<br />- DOM manipulation(append, delete, move..) |
-| Event handling. <br />- EventListener, Event object<br />- bubbling/capturing, delegation<br />- preventDefault, stopPropagation<br />- keyboard event<br />- form control<br />- handling css properties(classList..) |
+| Functional Programming<br />- compose & combinator<br />- currying & partial application<br />- iterator & generator<br />- lazy evaluation<br />- monad & error handling<br />- functional asynchronous handling |
 | HTML Templating <br />- templating  strategies <br />- template literal |
 | Asynchronous communication <br />- Fetch API <br />- XMLHttpRequest<br />- JSON handling <br />- Promise pattern<br />- Cross-domian (SOA, CORS,  JSONP) |
 | Functional Programming<br />- scope and closure<br />- partial, currying<br />- Immutability<br />- pipeline & combinator<br />- iteration protocol (for-of, generator)<br />- Monad(Either..) |
@@ -53,7 +53,6 @@
 | Performance & UXable technique <br />- dynamic & mixed animation handling <br />- throttling & debounce <br />- minimizing browser reflow<br />- Lazy loading<br />- Performance diagnosis  (with Chrome Dev tools) |
 | HTTP<br />- File-Uploader & Mulipart formdata<br />- session<br />- token based authentication & jwt |
 | Asynchornous technique <br />- promise APIs<br />- generator<br />- Async/await<br />- Erros handling |
-| Functional Programming<br />- compose & combinator<br />- currying & partial application<br />- iterator & generator<br />- lazy evaluation<br />- monad & error handling<br />- functional asynchronous handling |
 | TypeScript<br />- Types<br />- union, interface, generics, Enums, Classes, Functions |
 | Front-End Build<br />- NPM script<br />- build(webpack, parcel)<br />- Transpiling (babel)<br />- setup development & production |
 | SPAs<br />- Understanding SPAs<br />- history API & URL Routing<br />- fetch and indicator<br />- data cache & localStroage & KVStorage<br />- module depencies management (Observer pattern) |
