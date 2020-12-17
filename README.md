@@ -7,40 +7,39 @@
 ## STEP 1. JavaScript Programming
 | contents                                                     |
 | ------------------------------------------------------------ |
-| Fundamentals <br />- Development tool (VSCode)<br />- unix basic command<br />- git / github |
-| Node.JS<br />- npm project <br />- package.json & module dependencies<br />- Modules & CommonJS<br />- VSCode node debugging |
-| JavaScript Syntax<br />- type, string, scope(let,const,var), operator, switch, iterator, condition..<br />- ES 2015+ features  (destructuring, const, let, arrow, spread operator, for-of) |
+| Fundamentals <br />- Development tool (VSCode)<br />- Unix basic command<br />- Git / GitHub |
+| Node.js<br />- npm project <br />- package.json & module dependencies<br />- Modules & CommonJS<br />- VSCode Node debugging |
+| JavaScript Syntax<br />- type, string, scope, closure, operator, switch, iterator, condition..<br />- ES2015+ features  (destructuring, const, let, arrow, spread operator, for-of)<br />- New feature (Dynamic import, Nullish Coalescing, Optional Chaining) |
 | Function   <br />- declaration and expression <br />- arguments, parameter<br />- calling stack<br />- arrow function |
 | Function based programming design<br />- subroutine<br />- rest parameter, default parameter<br />- destructuring<br />- recursion<br />- pure function |
-| Collection <br />- handling JavaScript data structures <br />- Array (APIs, higher-order functions)<br />- Object (Object literal, Handling Object property)<br />- Set & Map |
+| Collection <br />- JavaScript data structures <br />- Array (APIs, Higher-rder functions)<br />- Object (Object literal, Handling Object property)<br />- Set & Map |
 | String<br />- String manipulation, methods<br />- Regular Expressions |
 | Asynchronous basic <br />- setTimeout<br />- JS stack & callback queue & event loop |
 | Clean code<br />- software maintenance<br />- maintainable code, readable code<br />- coding convention |
-| debugging<br />- JavaScript Errors <br />- Error handling<br />- VSCode or Chrome dev tools(source, console) debugging |
+| Debugging<br />- JavaScript Errors <br />- Error handling<br />- VSCode or Chrome dev tools(source, console) debugging |
 | OOP programming<br />- Object-Oriented Programming <br />- SOLID<br />- ES Classes and instance(object) <br />- prototype & Inheritance & Class Extends<br />- object literal pattern<br />- this, bind, apply, call |
-| Unit test basic<br /> - unit test basic<br /> - make simple test library |
-| Algorithm training<br />- complexity, <br />- stack, queue<br />- recursion |
+| Unit test basic<br /> - unit test basic<br />- understanding testing (why software testing is important?) |
+| Algorithm training<br />- complexity <br />- stack, queue<br />- recursion<br />- search algorithm<br />- sort |
 
 <br>
 
-## STEP 2. Browser Web development Basic 
+## STEP 2. Browser Web Development Basic 
 | contents                                                     |
 | ------------------------------------------------------------ |
 | Understanding HTTP<br />- Web Architecture<br />- Resource & URL |
-| Browser & Server<br />- How browser works<br />- How server works (Node.JS simple server)<br />- request & response<br />- HTTP (header, method, status, cookie, session) |
+| Browser & Server<br />- How browser works (Browser render cycle) <br />- How server works (Node.JS simple server)<br />- Request & Response<br />- HTTP (header, method, status, cookie, session) |
 | HTML<br />- HTML structured design <br />- semantic tags<br />- Class and ID properties<br />- HTML debugging(Chrome Dev tools) |
-| CSS <br />- style properties<br />- cascading <br />- Inheritance<br />- selector<br />- layout (float, position, boxmodel, flex)<br />- CSS debugging(Chrome Dev tools) |
-| DOM Manipulation<br />- HTML & DOM<br />- DOM properties & method<br />- DOM manipulation(append, delete, move..) |
-| Functional Programming<br />- compose & combinator<br />- currying & partial application<br />- iterator & generator<br />- lazy evaluation<br />- monad & error handling<br />- functional asynchronous handling |
+| CSS <br />- Style properties<br />- Cascading <br />- Inheritance<br />- Selector<br />- Layout (float, position, boxmodel, flex)<br />- CSS debugging(Chrome Dev tools) |
+| DOM Manipulation<br />- HTML & DOM<br />- DOM properties & method<br />- DOM manipulation(append, delete, move..)<br />- DOM traversal |
+| Functional Programming<br />- pure function<br />- Immutability<br />- Function Compose & Combinator<br />- Closure<br />- Currying & Partial application<br />- Iterator & Generator<br />- Lazy evaluation<br />- Monad & error handling<br />- Functional asynchronous handling |
 | HTML Templating <br />- templating  strategies <br />- template literal |
-| Asynchronous communication <br />- Fetch API <br />- XMLHttpRequest<br />- JSON handling <br />- Promise pattern<br />- Cross-domian (SOA, CORS,  JSONP) |
-| Functional Programming<br />- scope and closure<br />- partial, currying<br />- Immutability<br />- pipeline & combinator<br />- iteration protocol (for-of, generator)<br />- Monad(Either..) |
+| Asynchronous communication <br />- Fetch API <br />- XMLHttpRequest<br />- JSON handling <br />- Promise pattern<br />- Cross-Domian (SOA, CORS,  JSONP) |
 | UI Unit test  <br />- DOM, Asynchronous test<br />- Using Test library (Jest, Mocha) |
 | Web Animations <br />- understanding web animations<br />- Browser Rendering pipeline <br />- CSS property( keyframe, transition, transform) <br />- requestAnimationFrame & requestIdleCallback |
-| UI Components <br />- Slide UI (infinite sliding)<br />- Tab UI<br />- Search-bar auto-completion<br />- Reusable Component Design |
+| Resuable UI Components <br />- Reusable Component Design<br />- Practices<br /> - Slide UI (infinite sliding)<br /> -  Tab UI<br /> - Search-bar auto-completion |
 | Web Service Application Architecture<br />- Modular programming (ES Modules) <br />- Project structure for Web services |
-| Back-End application Basic(nodeJS)<br />- Express<br />- URL Routing and HTTP Response<br />- template engine & Server-side rendering<br />- Building a RESTful API |
-| UX programming - thinking.<br />- UX improving programming.  |
+| Back-End application Basic(nodeJS)<br />- Express<br />- URL Routing and HTTP Response<br />- Template engine & Server-side rendering<br />- Building a RESTful API |
+| UX programming - thinking.<br />- UX improving programming   |
 
 
 <br>
