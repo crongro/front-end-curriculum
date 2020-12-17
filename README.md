@@ -44,22 +44,23 @@
 
 <br>
 
-## STEP3. Browser Web development Advanced
+## STEP3. Browser Web Development Advanced
 | contents                                                     |
 | ------------------------------------------------------------ |
-| CSS Advanced <br />- Layout (CSS Grid layout)<br />- preprocessor (Sass)<br />- Responsive Web Design<br />- CSS Typed Object Model |
-| Mobile Web <br />- touch events<br />- swipe gesture interaction<br />- mobile web debugging |
-| Performance & UXable technique <br />- dynamic & mixed animation handling <br />- throttling & debounce <br />- minimizing browser reflow<br />- Lazy loading<br />- Performance diagnosis  (with Chrome Dev tools) |
-| HTTP<br />- File-Uploader & Mulipart formdata<br />- session<br />- token based authentication & jwt |
+| CSS Advanced <br />- Layout (CSS Grid layout)<br />- Preprocessor (Sass)<br />- Responsive Web Design<br />- CSS Typed Object Model |
+| Mobile Web <br />- Touch events<br />- Swipe gesture interaction<br />- Mobile web debugging |
+| Performance & UXable technique <br />- Performance Diagnosis & Analysis<br />- Dynamic & mixed animation handling <br />- Throttling & Debounce <br />- Minimizing browser reflow<br />- Lazy loading |
+| HTTP<br />- File-Uploader & Mulipart formdata<br />- Session<br />- token based authentication & jwt |
 | Asynchornous technique <br />- promise APIs<br />- generator<br />- Async/await<br />- Erros handling |
 | TypeScript<br />- Types<br />- union, interface, generics, Enums, Classes, Functions |
-| Front-End Build<br />- NPM script<br />- build(webpack, parcel)<br />- Transpiling (babel)<br />- setup development & production |
-| SPAs<br />- Understanding SPAs<br />- history API & URL Routing<br />- fetch and indicator<br />- data cache & localStroage & KVStorage<br />- module depencies management (Observer pattern) |
-| React Basic<br />- background & philosophy <br />  - Renderng flow <br />  - React features    <br />  - virtual DOM concepts <br />  - states & props   <br />- Styling (styled components, material UI...)<br />-  Hooks API<br />-  JSX Syntax<br />- CRA based projects (step by step)<br />- Hooks based component design |
-| React Advanced <br />- state management (Flux Architecture) <br />- useReduce, useContext<br />- Optimization technique (React.memo, useCallbackm, useMemo, Suspense, Lazy) <br />- Concurrent mode<br />- React Test (Jest & React testing library)<br />- SSR |
-| Progressive Web Apps <br />  - Service worker <br />  - Fetch API<br />  - Cache API and Cache strategy<br />  - offline<br />  - push notification and push API |
+| Front-End Build<br />- NPM script<br />- build(webpack, parcel)<br />- Transpiling (babel)<br />- Development & Production mode |
+| SPAs<br />- Understanding SPAs<br />- URL Routing & History API<br />- Fetch and Indicator<br />- Cache & localStroage <br />- Observer pattern |
+| React Basic<br />- background & philosophy <br />  - Renderng flow <br />  - React features    <br />  - Virtual DOM concepts <br />  - states & props   <br /><br />- Styling (CSS-in-JS)<br /><br />-  Hooks API<br />-  JSX Syntax<br />- CRA based projects (step by step)<br />- Hooks based Component Design |
+| React Advanced <br />- state management (Flux Architecture) <br />- useReducer, useContext<br />- Optimization technique (React.memo, useCallbackm, useMemo, Suspense, Lazy) <br />- Concurrent mode<br />- React Test (Jest & React testing library)<br />- SSR |
+| Progressive Web Apps <br />  - Service worker <br />  - Fetch API<br />  - Cache API and Cache strategy<br />  - Offline<br />  - Push notification and push API |
+| Web Multimedia APIs<br />- Audio, Video Element<br />- Web Socket<br />- WebRTC<br />- Canvas, WebGL, SVG <br />- Web Audio API<br />- Web MIDI API |
 
 
 
-{I LOVE CODESQUAD } 😎
+{CODESQUAD } 😎
 
